@@ -1,0 +1,16 @@
+[paths]
+source =
+   src/libdiabetes
+   */site-packages/libdiabetes
+
+[run]
+branch = true
+source =
+    libdiabetes
+    tests
+parallel = true
+
+[report]
+show_missing = true
+precision = 2
+omit = *migrations*
