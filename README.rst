@@ -63,6 +63,11 @@ Overview
 
 .. end-badges
 
+.. warning::
+
+   This project is under heavy primary phase which means this project has not
+   actual code yet.
+
 Libraries for fighting against diabetes
 
 * Free software: Apache Software License 2.0
