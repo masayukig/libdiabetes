@@ -25,7 +25,7 @@ master_doc = 'index'
 project = 'libdiabetes'
 year = '2018'
 author = 'Masayuki Igawa'
-copyright = '{0}, {1}'.format(year, author)
+copyright = '{0}-{1}, {2}'.format(year, datetime.date.today().year, author)
 version = release = '0.0.1'
 
 pygments_style = 'trac'
